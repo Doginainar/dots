@@ -1,0 +1,9 @@
+2023-02-20 10:43:04.117 [info] Starting worker process with pid 11996 (type: fileWatcher, window: 1).
+2023-02-20 10:43:54.413 [info] Getting Manifest... dracula-theme.theme-dracula
+2023-02-20 10:43:54.578 [info] Installing extension: dracula-theme.theme-dracula
+2023-02-20 10:43:55.482 [info] Extracted extension to /home/nd/.vscode-oss/extensions/.23a31373-2bae-4fb6-abf6-ef21dc3caf9b: dracula-theme.theme-dracula
+2023-02-20 10:43:55.487 [info] Renamed to /home/nd/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2-universal
+2023-02-20 10:43:55.490 [info] Extracting completed. dracula-theme.theme-dracula
+2023-02-20 10:43:55.501 [info] Extension installed successfully: dracula-theme.theme-dracula
+2023-02-20 10:44:40.086 [info] Worker process with pid 11996 terminated normally (type: fileWatcher, window: 1).
+2023-02-20 10:44:41.592 [info] Starting worker process with pid 12307 (type: fileWatcher, window: 1).

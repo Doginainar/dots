@@ -1,0 +1,18 @@
+2023-02-22 20:41:01.436 [info] Log level: Info
+2023-02-22 20:41:01.436 [info] Validating found git in: "git"
+2023-02-22 20:41:01.436 [info] Using git "2.39.1" from "git"
+2023-02-22 20:41:01.436 [info] > git rev-parse --show-toplevel [12ms]
+2023-02-22 20:41:01.436 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-02-22 20:41:01.436 [info] Open repository: /home/nd/Faculdade/ESOF/es23-03
+2023-02-22 20:41:01.455 [info] > git config --get commit.template [37ms]
+2023-02-22 20:41:01.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2023-02-22 20:41:01.559 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+2023-02-22 20:41:01.687 [info] > git status -z -uall [184ms]
+2023-02-22 20:41:01.795 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-02-22 20:41:01.796 [info] > git config --get commit.template [42ms]
+2023-02-22 20:41:01.843 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-02-22 20:41:01.946 [info] > git check-ignore -v -z --stdin [6ms]
+2023-02-22 20:41:01.948 [info] > git status -z -uall [133ms]
+2023-02-22 20:41:02.083 [info] > git show --textconv :docker-compose.yml [25ms]
+2023-02-22 20:41:02.096 [info] > git ls-files --stage -- /home/nd/Faculdade/ESOF/es23-03/docker-compose.yml [13ms]
+2023-02-22 20:41:02.112 [info] > git cat-file -s dd79be25a8d82d1b9ceb903429cb7aa7ec180a5e [4ms]

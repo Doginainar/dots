@@ -1,0 +1,6 @@
+2023/02/22-20:28:19.426 fce Reusing MANIFEST /home/nd/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/02/22-20:28:19.430 fce Recovering log #12
+2023/02/22-20:28:19.432 fce Reusing old log /home/nd/.config/discord/Local Storage/leveldb/000012.log 
+2023/02/22-20:30:22.172 10b4 Level-0 table #18: started
+2023/02/22-20:30:22.196 10b4 Level-0 table #18: 15587 bytes OK
+2023/02/22-20:30:22.199 10b4 Delete type=0 #12
